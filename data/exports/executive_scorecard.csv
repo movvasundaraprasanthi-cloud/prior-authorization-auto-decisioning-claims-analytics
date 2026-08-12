@@ -1,0 +1,2 @@
+authorization_volume,claim_volume,auto_decision_rate,decision_sla_met_rate,avoidable_manual_reviews,claims_denial_rate,denied_amount,estimated_auto_decision_admin_savings,client_value_opportunity,top_optimization_theme
+18500,28500,45.81,82.71,4268,19.92,5521915.19,167361.5,277560.03,"Move clean, policy-matched requests from nurse review to auto-decision queue"
