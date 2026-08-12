@@ -2,7 +2,7 @@
 
 Healthcare analytics project built for Cohere Health's Healthcare Analyst II role.
 
-![Executive Dashboard Preview](dashboards/screenshots/executive_dashboard_preview.png)
+![Executive Dashboard Preview](dashboards/screenshots/executive_dashboard_preview.svg)
 
 ## Six-Second Recruiter Signal
 
@@ -110,7 +110,7 @@ The core recommendation is to move clean, policy-matched, documentation-complete
 Dashboard preview:
 
 ```text
-dashboards/screenshots/executive_dashboard_preview.png
+dashboards/screenshots/executive_dashboard_preview.svg
 ```
 
 ## Repository Structure
