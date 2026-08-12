@@ -1,0 +1,68 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Prior Authorization Auto-Decisioning and Claims Value Analytics Dashboard</title>
+  <desc id="desc">Cohere-style executive dashboard preview showing authorization volume, claims volume, auto-decision rate, SLA rate, denied amount, client opportunity ranking, and optimization recommendation.</desc>
+  <rect width="1600" height="900" fill="#f8fafb"/>
+  <rect width="1600" height="118" fill="#12343b"/>
+  <text x="54" y="62" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#ffffff">Prior Authorization Auto-Decisioning &amp; Claims Value Analytics</text>
+  <text x="56" y="96" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#d9f0f2">Cohere-style Healthcare Analyst II project | SQL | Power BI-ready KPIs | claims + authorization data</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="54" y="148" width="280" height="120" rx="8" fill="#ffffff" stroke="#dbe3e6" stroke-width="2"/>
+    <text x="76" y="187" font-size="18" fill="#5f6c72">Authorizations</text>
+    <text x="76" y="234" font-size="34" font-weight="700" fill="#12343b">18,500</text>
+
+    <rect x="354" y="148" width="280" height="120" rx="8" fill="#ffffff" stroke="#dbe3e6" stroke-width="2"/>
+    <text x="376" y="187" font-size="18" fill="#5f6c72">Claims</text>
+    <text x="376" y="234" font-size="34" font-weight="700" fill="#12343b">28,500</text>
+
+    <rect x="654" y="148" width="280" height="120" rx="8" fill="#ffffff" stroke="#dbe3e6" stroke-width="2"/>
+    <text x="676" y="187" font-size="18" fill="#5f6c72">Auto-Decision Rate</text>
+    <text x="676" y="234" font-size="34" font-weight="700" fill="#12343b">45.81%</text>
+
+    <rect x="954" y="148" width="280" height="120" rx="8" fill="#ffffff" stroke="#dbe3e6" stroke-width="2"/>
+    <text x="976" y="187" font-size="18" fill="#5f6c72">SLA Met Rate</text>
+    <text x="976" y="234" font-size="34" font-weight="700" fill="#12343b">82.71%</text>
+
+    <rect x="1254" y="148" width="280" height="120" rx="8" fill="#ffffff" stroke="#dbe3e6" stroke-width="2"/>
+    <text x="1276" y="187" font-size="18" fill="#5f6c72">Denied Amount</text>
+    <text x="1276" y="234" font-size="34" font-weight="700" fill="#12343b">$5.52M</text>
+
+    <rect x="54" y="310" width="706" height="480" rx="8" fill="#ffffff" stroke="#dbe3e6" stroke-width="2"/>
+    <text x="84" y="362" font-size="26" font-weight="700" fill="#12343b">Client Value Opportunity Ranking</text>
+
+    <text x="84" y="410" font-size="19" font-weight="700" fill="#20272b">Central Health Plan Texas</text>
+    <text x="84" y="435" font-size="16" fill="#5f6c72">Auto 45.9% | Denial 19.7%</text>
+    <rect x="84" y="450" width="520" height="27" rx="5" fill="#2d6a6f"/>
+    <text x="620" y="470" font-size="17" font-weight="700" fill="#20272b">$87,666</text>
+
+    <text x="84" y="506" font-size="19" font-weight="700" fill="#20272b">Atlantic Care Advantage</text>
+    <text x="84" y="531" font-size="16" fill="#5f6c72">Auto 46.6% | Denial 20.0%</text>
+    <rect x="84" y="546" width="426" height="27" rx="5" fill="#2d6a6f"/>
+    <text x="620" y="566" font-size="17" font-weight="700" fill="#20272b">$71,967</text>
+
+    <text x="84" y="602" font-size="19" font-weight="700" fill="#20272b">Peach State Health</text>
+    <text x="84" y="627" font-size="16" fill="#5f6c72">Auto 45.3% | Denial 19.8%</text>
+    <rect x="84" y="642" width="394" height="27" rx="5" fill="#2d6a6f"/>
+    <text x="620" y="662" font-size="17" font-weight="700" fill="#20272b">$66,562</text>
+
+    <text x="84" y="698" font-size="19" font-weight="700" fill="#20272b">Desert Valley Health</text>
+    <text x="84" y="723" font-size="16" fill="#5f6c72">Auto 45.1% | Denial 20.3%</text>
+    <rect x="84" y="738" width="304" height="27" rx="5" fill="#2d6a6f"/>
+    <text x="620" y="758" font-size="17" font-weight="700" fill="#20272b">$51,365</text>
+
+    <rect x="820" y="310" width="726" height="480" rx="8" fill="#ffffff" stroke="#dbe3e6" stroke-width="2"/>
+    <text x="850" y="362" font-size="26" font-weight="700" fill="#12343b">Optimization Recommendation</text>
+    <text x="850" y="424" font-size="28" font-weight="700" fill="#20272b">Move clean, policy-matched requests</text>
+    <text x="850" y="464" font-size="28" font-weight="700" fill="#20272b">from nurse review to auto-decision</text>
+    <text x="850" y="504" font-size="28" font-weight="700" fill="#20272b">while preserving clinical safeguards.</text>
+
+    <rect x="850" y="540" width="658" height="100" rx="8" fill="#fff7df" stroke="#f2c14e" stroke-width="2"/>
+    <text x="880" y="580" font-size="20" fill="#5f6c72">Avoidable manual reviews identified</text>
+    <text x="880" y="620" font-size="34" font-weight="700" fill="#12343b">4,268</text>
+
+    <rect x="850" y="665" width="658" height="75" rx="8" fill="#eaf4f4" stroke="#2d6a6f" stroke-width="2"/>
+    <text x="880" y="709" font-size="24" font-weight="700" fill="#12343b">Estimated admin savings: $167,362</text>
+
+    <text x="54" y="854" font-size="16" fill="#5f6c72">Generated from synthetic data. No PHI, PII, patient, payer, or real provider data included.</text>
+  </g>
+</svg>
